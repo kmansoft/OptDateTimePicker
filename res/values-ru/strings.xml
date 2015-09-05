@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="opt_dtpicker_done_label">"Готово"</string>
+    <string name="opt_dtpicker_hour_picker_description">"Выбор часов на циферблате"</string>
+    <string name="opt_dtpicker_minute_picker_description">"Выбор минут на циферблате"</string>
+    <string name="opt_dtpicker_select_hours">"Выберите часы"</string>
+    <string name="opt_dtpicker_select_minutes">"Выберите минуты"</string>
+    <string name="opt_dtpicker_day_picker_description">"Окно выбора даты"</string>
+    <string name="opt_dtpicker_year_picker_description">"Меню выбора года"</string>
+    <string name="opt_dtpicker_select_day">"Выберите месяц и день"</string>
+    <string name="opt_dtpicker_select_year">"Выберите год"</string>
+    <string name="opt_dtpicker_item_is_selected">"Выбран элемент <xliff:g id="ITEM">%1$s</xliff:g>"</string>
+    <string name="opt_dtpicker_deleted_key">"Цифра <xliff:g id="KEY">%1$s</xliff:g> удалена"</string>
+</resources>
